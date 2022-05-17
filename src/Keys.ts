@@ -1,0 +1,10 @@
+// export const keys = {
+//   accountId
+// }
+
+const privKey =
+  "302e020100300506032b657004220420b70af9b42cc4a021226bdf936d3c3fa438f14346e4a8db2737817589e8087495";
+const pubKey =
+  "302a300506032b6570032100d9d4ae8b89349fb090f1c2cb0954d9a4db47e14e3ede2fc8497a024da67cc40e";
+
+export {}
